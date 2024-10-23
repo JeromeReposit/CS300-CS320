@@ -15,3 +15,8 @@ I find that my work expanded my approach to designing software and developing pr
 The work on this project evolved the way I write programs to be more maintable, readable, and adaptable. The way this happened was through my communication with my peers and teachers. My programs have become far more clear and the adaptability improved because the projects can easily apply to different scenarios in coding.
 
 # CS320
+# How can I ensure that my code, program, or software is functional and secure?
+To ensure that your code, program, or software is functional and secure is by making sure that each project you work on is working as intended. To verify that the programs are working as intended can be verified through several techqniues such as unit testing, transmitting the code to another interface, and or trying to find the best techniques that will help improve the projects integrity. 
+
+# How do I interpret user needs and incorporate them into a program?
+To interpret user needs and incorporate them into a program can easily be solved through articulating their thoughts into your work. In other words, make sure that whatever the user requests and visualizes you are able to implement that concept and display it to them in a way that they can understand. Incorporating is much more easy than expected to be, you can use resources such as github,google meet, and other chats such as zoom or phone. All of these contact applications can incorporate users and give them their requested goals.
